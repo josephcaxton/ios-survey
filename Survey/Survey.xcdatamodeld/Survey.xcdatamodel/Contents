@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3396" systemVersion="12F45" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="SaveSurveyResponse" syncable="YES">
+        <attribute name="questionId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="responseValue" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="uploadedToServer" optional="YES" attributeType="Boolean" syncable="YES"/>
+    </entity>
+    <entity name="UserSurvey" syncable="YES">
+        <attribute name="options" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="question" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="questionType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="surveyId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="surveyType" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UserSurveyList" syncable="YES">
+        <attribute name="surveyId" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="surveyName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="UserSurveyList" positionX="-117" positionY="60" width="128" height="75"/>
+        <element name="UserSurvey" positionX="133" positionY="-72" width="128" height="133"/>
+        <element name="SaveSurveyResponse" positionX="-119" positionY="-72" width="128" height="88"/>
+    </elements>
+</model>

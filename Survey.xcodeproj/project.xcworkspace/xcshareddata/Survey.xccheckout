@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9FA19875-8D28-40FD-B18B-7DF853A05A3A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Survey</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D04E5F4C-F93D-418B-BABE-CA2B8A19EBB5</key>
+		<string>ssh://10.184.193.152/ios-survey</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Survey.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D04E5F4C-F93D-418B-BABE-CA2B8A19EBB5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://10.184.193.152/ios-survey</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D04E5F4C-F93D-418B-BABE-CA2B8A19EBB5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D04E5F4C-F93D-418B-BABE-CA2B8A19EBB5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Survey</string>
+		</dict>
+	</array>
+</dict>
+</plist>
